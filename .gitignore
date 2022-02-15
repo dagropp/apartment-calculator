@@ -1,0 +1,11 @@
+# Project exclude paths
+/node_modules/
+/src/components/ApartmentSelect.js
+/src/components/InputContainer.js
+/src/components/MainForm.js
+/src/components/OutcomeTable.js
+/src/components/OutcomeTableRow.js
+/src/components/RemoveApartmentButton.js
+/src/global/CostObjectService.js
+/src/global/DataService.js
+/src/global/Utils.js
